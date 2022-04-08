@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohamed
-- 👀 I’m interested in Data anlyst
+- 👀 I’m interested in Data analyst
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on Project in ML
 - 📫 How to reach me zoro41111@gmail.com
